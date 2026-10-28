@@ -2,5 +2,3 @@ autoEnabled=true
 bindingSuggestionsDisabled=false
 eclipse.preferences.version=1
 indexingBasedOnEclipsePlugIns=true
-projectKey=ikergarciaprieto_SOLID_PRINTZIPIOAK
-serverId=SonarQube_Cloud/ikergarciaprieto
